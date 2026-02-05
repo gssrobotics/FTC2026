@@ -29,7 +29,9 @@ WorseAuto is designed to minimize possible penalties while still scoring a ranki
 The TeleOp controls are quite simple, offering precise analog control over the motors. The robot can drive and turn at the same time, offering intuitive controls that allow for precise driving.
 
 **Drive:** Left stick up/down
+
 **Turn:** Right stick left/right
+
 **Intake:** Left trigger to intake (analog), Left bumper to release (fixed speed)
 
 **Flywheel:** Right trigger to intake (analog), Right bumper to release (fixed speed)
